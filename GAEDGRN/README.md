@@ -2,7 +2,7 @@
 ![image](https://github.com/jhjsagcdjks1/GAEDGRN/blob/master/GAEDGRN/Framework.png)
 ***
 **Dependencies**
-• 226'networkx==2.2'；  
+• 'networkx==2.2'；  
 • 'numpy'；  
 • 'scikit-learn'；  
 • 'scipy'；  
