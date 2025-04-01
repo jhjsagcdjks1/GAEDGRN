@@ -4,9 +4,9 @@
 ***
 **Dependencies**
 • 'networkx==2.2'；  
-• 'numpy'；  
-• 'scikit-learn'；  
-• 'scipy'；  
+• 'numpy==1.16.0'；  
+• 'scikit-learn==0.19.2'；  
+• 'scipy==1.0.0'；  
 • 'tensorflow==1.4'
 ***
 **Usage**
