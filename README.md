@@ -15,4 +15,4 @@ Preparing for gene expression profiles and gene-gene adjacent matrix
 GAEDGRN integrates gene expression matrix (N×M) with prior gene topology (N×N) to learn low-dimensional vertorized representations with supervision.Please convert the gene expression matrix and prior gene topology into the ".npz" format using the data preprocessing code (as shown in the demo), and then run them in the GAEDGRN model.
 
 Command to run GAEDGRN
-python train.py
+python main.py
